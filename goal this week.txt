@@ -1,0 +1,8 @@
+1. expand on the guide html
+	-the guide page should have stuff like all the lost ark classes and a link to each one that leads to another sub page
+
+	-you can have the link to another subpage be the class icon with its name, linking to either a community guide.
+
+	-to not get too ambitious, start small with maybe 3 classes, having an option of a video guide or a written guide.
+	-also provide additional pictures as u scroll down for a 3rd option maybe.
+
